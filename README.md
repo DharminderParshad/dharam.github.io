@@ -1,12 +1,14 @@
 # Linux
-![Image](/images/linus2.jpeg)  
-Invention of Linux
+![Image](/images/linus2.jpeg) 
+
+*Invention of Linux*  
 
 Linux has its roots in Unix and Multics, two projects that shared the goal of developing a multi-user operating system.
 
 Unix developed out of the Multics project iteration at the Bell Laboratories’ Computer Sciences Research Center. The developers working on Multics at Bell Labs and elsewhere were interested in building a multi-user operating system with single-level storage, dynamic linking (in which a running process can request that another segment be added to its address space, enabling it to execute that segment’s code), and a hierarchical file system.
 
-Who
+# Now somthing about founder of Linux  
+
 
 Linus Torvalds invented Linux itself. In 1991, Torvalds was a student at the University of Helsinki in Finland where he had been using Minix, a non-free Unix-like system, and began writing his own kernel. He started by developing device drivers and hard-drive access, and by September had a basic design that he called Version 0.01.
 
