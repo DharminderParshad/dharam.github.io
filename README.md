@@ -1,4 +1,7 @@
-# Linux
+```diff
+- Linux  
+```  
+
 ![Image](/images/linus2.jpeg) 
 
 *Invention of Linux*  
