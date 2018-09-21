@@ -1,6 +1,4 @@
-```diff
-- Linux  
-```  
+# Linux  
 
 ![Image](/images/linus2.jpeg) 
 
