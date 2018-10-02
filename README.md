@@ -39,3 +39,6 @@ maitained
 A new kernel comes out every 2-3 months. This sort of speed is achieved by employing a unique collaborative developing technique. This technique has made Linux as the biggest collaborative development product.
 
 [Video link](https://www.youtube.com/watch?v=yVpbFMhOAwE&feature=youtu.be)
+
+If you found this useful, be sure to give lots and lots of claps 👏 . 
+Hint, you can leave up to 50! 😉
