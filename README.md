@@ -2,7 +2,7 @@
 
 ![Image](/images/linus2.jpeg) 
 
-*Invention of Linux*  
+# Invention of Linux
 
 Linux has its roots in Unix and Multics, two projects that shared the goal of developing a multi-user operating system.
 
