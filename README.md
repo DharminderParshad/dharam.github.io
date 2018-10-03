@@ -25,7 +25,7 @@ I'd like any feedback on things people like/dislike in minix, as my OS resembles
 I've currently ported bash(1.08) and gcc(1.40), and things seem to work.  
 This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them :-) 
 
--- Is linux is opensource ?
+## Is linux is opensource ?
 
 Yes, Lets first understand the meaning opensource i.e "open source" refers to something people can modify and share because its design is publicly accessible.
 The primary difference between Linux and many other popular contemporary operating systems is that the Linux kernel and other components are free and open-source software.
