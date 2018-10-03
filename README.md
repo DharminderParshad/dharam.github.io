@@ -1,4 +1,4 @@
-# Linux  
+# Things No One Told You About Linux 
 
 ![Image](/images/linus2.jpeg) 
 
