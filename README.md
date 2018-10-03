@@ -38,6 +38,14 @@ Linux has huge community of more than 10000 developers and 1000 companies , help
 maitained
 A new kernel comes out every 2-3 months. This sort of speed is achieved by employing a unique collaborative developing technique. This technique has made Linux as the biggest collaborative development product.
 
+Now its time to switch the gear towards our first "Hello world" program. So tighten up you seat belt 😉
+
+echo "Hello world"
+
+Hurray!! we have acheived the landmark :)
+
+
+
 [Video link](https://www.youtube.com/watch?v=yVpbFMhOAwE&feature=youtu.be)
 
 If you found this useful, be sure to give lots and lots of claps 👏 . 
