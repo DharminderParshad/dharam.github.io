@@ -53,6 +53,7 @@ Why these flavour came
 
 In beginning linux is pure command line operating system means no user interface. At the same Apple and Windows are user interface operating system, they are easy to use. In linux computer users typed commands at a prompt to run programs that is bit diffult to use.
 
+Linux operating systems comes in three (3) types of families i.e.
 ![Image](/images/flavour.jpg) 
 
 
