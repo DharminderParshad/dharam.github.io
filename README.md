@@ -47,6 +47,13 @@ echo "Hello world"
 
 Hurray!! we have acheived the landmark :)
 
+Linux flavour
+
+Why these flavour came
+
+In beginning linux is pure command line operating system means no user interface. At the same Apple and Windows are user interface operating system, they are easy to use. In linux computer users typed commands at a prompt to run programs that is bit diffult to use.
+
+
 
 
 [Video link](https://www.youtube.com/watch?v=yVpbFMhOAwE&feature=youtu.be)
